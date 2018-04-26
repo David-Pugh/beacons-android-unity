@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\952f8538da51ab44ab51083ee5bfc637\AndroidManifest.xml:17:1-27:12
+MERGED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\87e842d72758ae2176d76a43524a24a6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\6ace11a79ba3b16664622df8c51a1b0a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ff44ae9d4b2cdb039dcaec18517899ae\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:70-102
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:103-128
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:129-152
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:2:153-193
+supports-screens
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:4:3-14:17
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\952f8538da51ab44ab51083ee5bfc637\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\952f8538da51ab44ab51083ee5bfc637\AndroidManifest.xml:25:5-20
+MERGED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:22:5-26:19
+MERGED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\87e842d72758ae2176d76a43524a24a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\87e842d72758ae2176d76a43524a24a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\6ace11a79ba3b16664622df8c51a1b0a\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\6ace11a79ba3b16664622df8c51a1b0a\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ff44ae9d4b2cdb039dcaec18517899ae\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ff44ae9d4b2cdb039dcaec18517899ae\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:4:92-124
+	android:debuggable
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:4:125-150
+	android:allowBackup
+		ADDED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:4:58-91
+	android:banner
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:4:173-210
+	android:theme
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:4:151-172
+activity#com.gcell.unityandroid.UnityPlayerActivity
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:5:48-86
+	android:label
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:5:87-118
+	android:configChanges
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:5:119-276
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:5:277-334
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:11:18-58
+service#com.gcell.ibeacon.gcellbeaconscanlibrary.GCellBeaconScanManagerService
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:13:5-110
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:13:14-99
+uses-sdk
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:15:3-71
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:15:3-71
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:15:3-71
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\952f8538da51ab44ab51083ee5bfc637\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\952f8538da51ab44ab51083ee5bfc637\AndroidManifest.xml:21:5-23:78
+MERGED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:7:5-9:41
+MERGED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\87e842d72758ae2176d76a43524a24a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\87e842d72758ae2176d76a43524a24a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\6ace11a79ba3b16664622df8c51a1b0a\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\6ace11a79ba3b16664622df8c51a1b0a\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ff44ae9d4b2cdb039dcaec18517899ae\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ff44ae9d4b2cdb039dcaec18517899ae\AndroidManifest.xml:21:5-23:54
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:15:3-71
+INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:15:3-71
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\952f8538da51ab44ab51083ee5bfc637\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:15:39-68
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:15:13-38
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:16:3-52
+	android:glEsVersion
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:16:17-49
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:17:3-65
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:17:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:18:3-106
+	android:maxSdkVersion
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:18:77-103
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:18:20-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:19:3-78
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:19:20-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:20:3-66
+MERGED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:11:5-68
+MERGED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:20:20-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:21:3-72
+MERGED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:12:5-74
+MERGED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:21:20-69
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:22:3-88
+	android:required
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:22:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:23:3-99
+	android:required
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:23:72-96
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:23:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:24:3-108
+	android:required
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:24:81-105
+	android:name
+		ADDED from C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\src\main\AndroidManifest.xml:24:17-80
+receiver#com.example.davidpugh.gcellbeaconscanlibrary.gcell.davidpugh.gcellbeaconscanlibrary.GCellBeaconScanManager
+ADDED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:14:5-20:16
+	android:enabled
+		ADDED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:16:9-31
+	android:name
+		ADDED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:15:9-130
+intent-filter#action:name:android.bluetooth.adapter.action.STATE_CHANGED
+ADDED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:17:9-19:25
+action#android.bluetooth.adapter.action.STATE_CHANGED
+ADDED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:18:13-85
+	android:name
+		ADDED from [:gcellbeaconscanlibrary-DPScanv0-1-release] C:\Users\david.pugh\.gradle\caches\transforms-1\files-1.1\gcellbeaconscanlibrary-DPScanv0-1-release.aar\56590e9fd0ef4c1ecef4c5714a5c508e\AndroidManifest.xml:18:21-82

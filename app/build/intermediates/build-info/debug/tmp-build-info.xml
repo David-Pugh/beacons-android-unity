@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    build-mode="FULL"
+    density="xxxhdpi"
+    format="10"
+    plugin-version="3.1.2"
+    timestamp="1524740122690"
+    token="5870832726402937373"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="566" />
+    <task
+        name="verifier"
+        duration="448" />
+
+    <artifact
+        location="C:\Users\david.pugh\AndroidStudioProjects\android-unity\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+</instant-run>
